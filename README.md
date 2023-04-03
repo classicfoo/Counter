@@ -1,7 +1,7 @@
 # Counter
 ## Counts Items on JPG Floorplans
 
-(screenshot)[screenshot.jpg]
+[screenshot](screenshot.jpg)
 
 - v1.0 zoom and click to place red dot
 - v1.1 make red circle a variable in code for size so we can change it
